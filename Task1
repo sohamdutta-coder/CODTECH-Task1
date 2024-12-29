@@ -24,7 +24,7 @@ def backspace():
 
 # Creating the main window
 root = tk.Tk()
-root.title("Flat Design Calculator")
+root.title("Simple Calculator")
 root.geometry("400x500")
 root.config(bg="#ffffff")  # Background color
 
