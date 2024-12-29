@@ -48,3 +48,4 @@ The primary objective of this project is to design and implement a user-friendly
 
 ## Outcome
 The project results in a visually attractive, user-friendly calculator that not only performs basic arithmetic operations but also provides an enjoyable experience due to its modern design and ease of use. The larger clear (`C`) and equal (`=`) buttons, along with the use of color contrast (orange and gray), make the application both functional and aesthetically pleasing.
+https://github.com/sohamdutta-coder/CODTECH-Task1/issues/1#issue-2762344585
